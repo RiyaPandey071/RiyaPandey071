@@ -94,7 +94,7 @@
 ## 📫 Connect With Me  
 
 <p>
-  <a href="www.linkedin.com/in/riyapandey-">
+  <a href="https://www.linkedin.com/in/riyapandey-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:riyapandey0553@gmail.com">
