@@ -1,115 +1,83 @@
-
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Riya%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">🚀 Pre-final Year B.Tech Student | ML & Data Science Enthusiast</h3>
+<h1 align="center">Riya Pandey</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RiyaPandey0771&label=Profile%20Views&color=blue&style=flat" />
-</p></p>
-
----
-
-## 👩‍💻 About Me  
-
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750047-1b45c7b5-07f4-4d4a-9d9c-7dbce3c36f63.gif"/>
-
-- 🎓 Pre-final year **B.Tech student**
-- 🧠 Learning **Machine Learning & Data Science**
-- 💻 Strong in **Python & Java**
-- 📊 Love working with **data, visualization & analytics**
-- 🌐 Front-end skills with **HTML, CSS & JavaScript**
-- 🔥 Constantly building projects & improving skills
-
----
-
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+Final Year B.Tech Student (CSE - AI & ML) <br>
+Aspiring Data Analyst | Machine Learning Enthusiast
 </p>
 
-### 📊 Data Science & Machine Learning  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge"/>
-</p>
+<hr>
 
-### 🌐 Web Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### 🧰 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
-
-## 📂 Projects  
-
-🚀 **Machine Learning Projects**  
-- Data preprocessing & feature engineering  
-- Model training & evaluation  
-
-📊 **Data Analysis Projects**  
-- Exploratory Data Analysis (EDA)  
-- Insightful visualizations using Matplotlib & Seaborn  
-
-🌐 **Web Projects**  
-- Responsive UI using HTML, CSS & JavaScript  
-
-👉 *Visit my repositories to explore all projects!*
-
----
-
-## 📈 Currently Learning  
+<h2>About Me</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Growing-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-Learning-orange?style=for-the-badge"/>
+I am a final-year Computer Science and Engineering (AI & ML) student with an interest in
+Data Analytics, Machine Learning, and Artificial Intelligence. I enjoy solving
+real-world problems using data and continuously learning new technologies.
 </p>
 
----
+<h2>Skills</h2>
 
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python, Java, SQL</td>
+</tr>
 
+<tr>
+<td><b>Libraries</b></td>
+<td>Pandas, NumPy, Matplotlib, Seaborn</td>
+</tr>
 
-## 🎯 Career Goals  
+<tr>
+<td><b>Web</b></td>
+<td>HTML, CSS, JavaScript</td>
+</tr>
 
-- 🎯 Become a **Machine Learning / Data Science Engineer**
-- 💡 Build impactful real-world projects
-- 🌱 Contribute to open-source
-- 🚀 Secure a strong placement role
+<tr>
+<td><b>Tools</b></td>
+<td>Git, GitHub, MySQL, Jupyter Notebook, VS Code, Excel, Power BI</td>
+</tr>
+</table>
 
----
+<h2>Projects</h2>
 
-## 📫 Connect With Me  
+<h3>Mental Health Analysis</h3>
+
+<ul>
+<li>Performed data cleaning and exploratory data analysis.</li>
+<li>Visualized trends using Python libraries.</li>
+<li>Generated insights from mental health datasets.</li>
+</ul>
+
+<h3>COVID-19 Data Analysis</h3>
+
+<ul>
+<li>Analyzed COVID-19 datasets using Python.</li>
+<li>Cleaned and processed real-world data.</li>
+<li>Created visualizations to identify trends and patterns.</li>
+</ul>
+
+<h2>Currently Learning</h2>
+
+<ul>
+<li>Machine Learning</li>
+<li>Advanced SQL</li>
+</ul>
+
+<h2>Connect</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/riyapandey-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:riyapandey0553@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<a href="https://github.com/RiyaPandey0771">GitHub</a> |
+<a href="www.linkedin.com/in/riyapandey-">LinkedIn</a> |
+<a href="riyapandey0553@gmail.com">Email</a>
 </p>
 
----
+<hr>
 
-  
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<i>"Learning by building meaningful projects."</i>
 </p>
+
 
 
 
